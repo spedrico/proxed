@@ -1,6 +1,5 @@
 # password: FreeRico
-l
-l
+
 Features:
 [Aimbot]
 
@@ -12,8 +11,7 @@ Smoothness
 Box & Filled Box
 Lines
 Distance
-l
-l
+
 you will need https://www.python.org/downloads/
 
 buy me a coffee

@@ -1,5 +1,8 @@
 # password: FreeRico
 
+![Uploading 214996773-b5d419f7-84f0-4d93-ae41-244c62ec6a31.png…]()
+
+
 you will need https://www.python.org/downloads/
 
 buy me a coffee

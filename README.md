@@ -1,5 +1,18 @@
 # password: FreeRico
 
+
+Features:
+[Aimbot]
+
+Fov Size
+Show Fov
+Smoothness
+[Visuals]
+
+Box & Filled Box
+Lines
+Distance
+
 you will need https://www.python.org/downloads/
 
 buy me a coffee
